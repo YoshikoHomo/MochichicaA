@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "mochib.data.unityweb",
+"asmCodeUrl": "mochib.asm.code.unityweb",
+"asmMemoryUrl": "mochib.asm.memory.unityweb",
+"asmFrameworkUrl": "mochib.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
